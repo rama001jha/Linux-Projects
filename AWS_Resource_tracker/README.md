@@ -79,6 +79,9 @@ echo "Printing IAM users"
 aws iam list-users
 </pre>
 
+<h3>NOTE: To write in vim press 'i'       ,          To save script and cronjob press esc , then :wq! to save </h3>
+
+
 <p>Make the script executable:</p>
 
 <pre>
