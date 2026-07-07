@@ -1,0 +1,45 @@
+===================================
+Linux Users Report
+Generated on: Tue Jul  7 19:48:50 UTC 2026
+===================================
+
+Username : rama001
+UID      : 1000
+GID      : 1000
+Home Dir : /home/rama001
+Shell    : /bin/bash
+Groups   : rama001 adm dialout cdrom floppy sudo audio dip video plugdev users netdev docker
+Status   : rama001 P 2024-12-30 0 99999 7 -1
+-----------------------------------
+Username : ubuntu
+UID      : 1005
+GID      : 1007
+Home Dir : /home/ubuntu
+Shell    : /bin/sh
+Groups   : ubuntu devops
+Status   : ubuntu L 2025-04-17 0 99999 7 -1
+-----------------------------------
+Username : developer
+UID      : 1001
+GID      : 1001
+Home Dir : /home/developer
+Shell    : /bin/bash
+Groups   : developer users
+Status   : developer P 2026-05-26 0 99999 7 -1
+-----------------------------------
+Username : qe
+UID      : 1002
+GID      : 1002
+Home Dir : /home/qe
+Shell    : /bin/bash
+Groups   : qe users
+Status   : qe P 2026-05-26 0 99999 7 -1
+-----------------------------------
+Username : rsjha
+UID      : 1006
+GID      : 1008
+Home Dir : /home/rsjha
+Shell    : /bin/sh
+Groups   : rsjha
+Status   : rsjha P 2026-07-07 0 99999 7 -1
+-----------------------------------
